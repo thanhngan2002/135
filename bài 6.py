@@ -21,4 +21,3 @@ while i<n:
         max=list1[i]
     i+=1
 print("giá trị lớn nhất là:",max)
-print("kết thúc chương trình")
